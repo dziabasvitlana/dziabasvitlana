@@ -22,3 +22,4 @@
 + PHP
 + Shopify
 + SQL, MongoDB, PostgreSQL
++ JS, jQuery, React
